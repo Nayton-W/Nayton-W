@@ -37,7 +37,10 @@
   
 </div>
 </br>
+</br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Nayton-W/count.svg" /></p>
 
+<div style="width: 100%"; align="center">
 ![snake gif](https://github.com/Nayton-W/Nayton-W/blob/output/github-contribution-grid-snake.svg)
+</div>
 

@@ -40,6 +40,5 @@
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Nayton-W/count.svg" /></p>
 
-</br>
 ![snake gif](https://github.com/Nayton-W/Nayton-W/blob/output/github-contribution-grid-snake.svg)
 

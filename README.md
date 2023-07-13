@@ -15,7 +15,8 @@
   <img align="center" alt="Nayton-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-
+<br/>
+<br/>
 <div style="width: 100%"; align="center">
   <a href="https://github.com/Nayton-W/Nayton-W/blame/main/terminal.svg">
     <img src="terminal.svg" style="width: 600px; height: 400px;" alt="Svg source">

@@ -22,7 +22,7 @@
     <img src="terminal.svg" style="width: 600px; height: 400px;" alt="Svg source">
   </a>
 </div>
-<div>
+ <div style="width: 100%"; align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Nayton-W&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D"/>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayton-W&layout=compact&card_width=275&theme=github_dark&langs_count=8&hide=langs,separadas,por,virugula4&exclude_repo=separar-reps,por-virgula" alt="camilasbraz's Top Languages" width="295" alling = "right""/>
 </div>
@@ -30,7 +30,7 @@
   
  
 <div> 
-<div> 
+<div <div style="width: 100%"; align="center"> 
   <a href = "mailto:naytonwillian23@outlok.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nayton-willian-da-silva-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/HallSamaoficial" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 

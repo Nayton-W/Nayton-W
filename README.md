@@ -16,7 +16,7 @@
 </div>
 
 
-<div style="width: 100%;">
+<div style="width: 100%"; align="center">
   <a href="https://github.com/Nayton-W/Nayton-W/blame/main/terminal.svg">
     <img src="terminal.svg" style="width: 600px; height: 400px;" alt="Svg source">
   </a>

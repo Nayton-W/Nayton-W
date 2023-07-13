@@ -26,8 +26,6 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Nayton-W&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D"/>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayton-W&layout=compact&card_width=275&theme=github_dark&langs_count=8&hide=langs,separadas,por,virugula4&exclude_repo=separar-reps,por-virgula" alt="camilasbraz's Top Languages" width="295" alling = "right""/>
 </div>
-
-  
  
 <div> 
  <div style="width: 100%"; align="center"> 
@@ -38,7 +36,7 @@
 </div>
 </br>
 </br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Nayton-W/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Nayton-W/count.svg" /></p></div></br>
 
 ![snake gif](https://github.com/Nayton-W/Nayton-W/blob/output/github-contribution-grid-snake.svg)
 

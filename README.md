@@ -27,7 +27,7 @@
  <hr>
  </hr>
  <div style="width: 100%"; align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Nayton-W&theme=github-dark-red&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Nayton-W&theme=github-dark-&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
  <hr>
  </hr>

@@ -30,7 +30,7 @@
   
  
 <div> 
-<div <div style="width: 100%"; align="center"> 
+ <div style="width: 100%"; align="center"> 
   <a href = "mailto:naytonwillian23@outlok.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nayton-willian-da-silva-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/HallSamaoficial" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
@@ -40,7 +40,7 @@
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Nayton-W/count.svg" /></p>
 
-<div style="width: 100%"; align="center">
+<div style= "align="center">
 ![snake gif](https://github.com/Nayton-W/Nayton-W/blob/output/github-contribution-grid-snake.svg)
 </div>
 
